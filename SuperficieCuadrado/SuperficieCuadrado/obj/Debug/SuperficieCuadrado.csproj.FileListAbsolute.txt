@@ -1,0 +1,5 @@
+C:\Users\emma_\Desktop\C#\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\SuperficieCuadrado.exe.config
+C:\Users\emma_\Desktop\C#\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\SuperficieCuadrado.exe
+C:\Users\emma_\Desktop\C#\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\SuperficieCuadrado.pdb
+C:\Users\emma_\Desktop\C#\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\SuperficieCuadrado.exe
+C:\Users\emma_\Desktop\C#\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\SuperficieCuadrado.pdb
