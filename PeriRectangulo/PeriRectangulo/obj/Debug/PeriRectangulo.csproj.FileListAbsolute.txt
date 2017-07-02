@@ -1,0 +1,6 @@
+C:\Users\emma_\Desktop\C#\PeriRectangulo\PeriRectangulo\obj\Debug\PeriRectangulo.csprojResolveAssemblyReference.cache
+C:\Users\emma_\Desktop\C#\PeriRectangulo\PeriRectangulo\bin\Debug\PeriRectangulo.exe.config
+C:\Users\emma_\Desktop\C#\PeriRectangulo\PeriRectangulo\bin\Debug\PeriRectangulo.exe
+C:\Users\emma_\Desktop\C#\PeriRectangulo\PeriRectangulo\bin\Debug\PeriRectangulo.pdb
+C:\Users\emma_\Desktop\C#\PeriRectangulo\PeriRectangulo\obj\Debug\PeriRectangulo.exe
+C:\Users\emma_\Desktop\C#\PeriRectangulo\PeriRectangulo\obj\Debug\PeriRectangulo.pdb
