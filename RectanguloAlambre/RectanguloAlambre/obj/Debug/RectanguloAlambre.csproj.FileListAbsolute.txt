@@ -1,0 +1,6 @@
+C:\Users\emma_\Desktop\C#\RectanguloAlambre\RectanguloAlambre\bin\Debug\RectanguloAlambre.exe.config
+C:\Users\emma_\Desktop\C#\RectanguloAlambre\RectanguloAlambre\bin\Debug\RectanguloAlambre.exe
+C:\Users\emma_\Desktop\C#\RectanguloAlambre\RectanguloAlambre\bin\Debug\RectanguloAlambre.pdb
+C:\Users\emma_\Desktop\C#\RectanguloAlambre\RectanguloAlambre\obj\Debug\RectanguloAlambre.csprojResolveAssemblyReference.cache
+C:\Users\emma_\Desktop\C#\RectanguloAlambre\RectanguloAlambre\obj\Debug\RectanguloAlambre.exe
+C:\Users\emma_\Desktop\C#\RectanguloAlambre\RectanguloAlambre\obj\Debug\RectanguloAlambre.pdb
