@@ -1,0 +1,6 @@
+C:\Users\emma_\Desktop\C#\EjercicioDoWhile\EjercicioDoWhile\obj\Debug\EjercicioDoWhile.csprojResolveAssemblyReference.cache
+C:\Users\emma_\Desktop\C#\EjercicioDoWhile\EjercicioDoWhile\bin\Debug\EjercicioDoWhile.exe.config
+C:\Users\emma_\Desktop\C#\EjercicioDoWhile\EjercicioDoWhile\bin\Debug\EjercicioDoWhile.exe
+C:\Users\emma_\Desktop\C#\EjercicioDoWhile\EjercicioDoWhile\bin\Debug\EjercicioDoWhile.pdb
+C:\Users\emma_\Desktop\C#\EjercicioDoWhile\EjercicioDoWhile\obj\Debug\EjercicioDoWhile.exe
+C:\Users\emma_\Desktop\C#\EjercicioDoWhile\EjercicioDoWhile\obj\Debug\EjercicioDoWhile.pdb
