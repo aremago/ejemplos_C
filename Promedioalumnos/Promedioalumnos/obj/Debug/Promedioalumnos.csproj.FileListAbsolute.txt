@@ -1,0 +1,6 @@
+C:\Users\emma_\Desktop\C#\Promedioalumnos\Promedioalumnos\bin\Debug\Promedioalumnos.exe.config
+C:\Users\emma_\Desktop\C#\Promedioalumnos\Promedioalumnos\bin\Debug\Promedioalumnos.exe
+C:\Users\emma_\Desktop\C#\Promedioalumnos\Promedioalumnos\bin\Debug\Promedioalumnos.pdb
+C:\Users\emma_\Desktop\C#\Promedioalumnos\Promedioalumnos\obj\Debug\Promedioalumnos.csprojResolveAssemblyReference.cache
+C:\Users\emma_\Desktop\C#\Promedioalumnos\Promedioalumnos\obj\Debug\Promedioalumnos.exe
+C:\Users\emma_\Desktop\C#\Promedioalumnos\Promedioalumnos\obj\Debug\Promedioalumnos.pdb
