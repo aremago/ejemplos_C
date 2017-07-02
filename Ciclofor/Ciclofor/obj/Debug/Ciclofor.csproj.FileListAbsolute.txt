@@ -1,0 +1,6 @@
+C:\Users\emma_\Desktop\C#\Ciclofor\Ciclofor\bin\Debug\Ciclofor.exe.config
+C:\Users\emma_\Desktop\C#\Ciclofor\Ciclofor\bin\Debug\Ciclofor.exe
+C:\Users\emma_\Desktop\C#\Ciclofor\Ciclofor\bin\Debug\Ciclofor.pdb
+C:\Users\emma_\Desktop\C#\Ciclofor\Ciclofor\obj\Debug\Ciclofor.csprojResolveAssemblyReference.cache
+C:\Users\emma_\Desktop\C#\Ciclofor\Ciclofor\obj\Debug\Ciclofor.exe
+C:\Users\emma_\Desktop\C#\Ciclofor\Ciclofor\obj\Debug\Ciclofor.pdb
